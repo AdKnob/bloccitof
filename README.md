@@ -1,5 +1,7 @@
 # README
 
+This is a project started on 06.02.2017 by Adrian Knoblauch
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
